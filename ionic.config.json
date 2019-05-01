@@ -1,0 +1,7 @@
+{
+  "name": "QuickBeautyApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
